@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Gift.iml" filepath="$PROJECT_DIR$/Gift.iml" />
+      <module fileurl="file://Z:\pam\gift-shop\Gift.iml" filepath="Z:\pam\gift-shop\Gift.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://Z:\pam\gift-shop\app\app.iml" filepath="Z:\pam\gift-shop\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gift-shop.iml" filepath="$PROJECT_DIR$/gift-shop.iml" />
     </modules>
   </component>
 </project>
