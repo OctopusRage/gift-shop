@@ -5,4 +5,6 @@
     <string name="tab4">Tab4</string>
     <string name="tab5">Tab5</string>
     <string name="tab1">Tab1</string>
+    <string name="search" />
+    <string name="one">one</string>
 </resources>
